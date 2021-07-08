@@ -1,18 +1,3 @@
----
-title: 学生选课系统（C语言课程设计）
-date: 2021-07-08 12:00:00
-author: AnglesD
-top: false
-hide: false
-cover: true
-toc: true
-mathjax: false
-categories: 编程
-tags:
-  - 课程设计
-  - C/C++
----
-
 # 学生选课系统（C语言课程设计）
 
 ## 摘要
